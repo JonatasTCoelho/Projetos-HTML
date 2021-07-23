@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.fazer--login{
+    border: none;
+    width: 100%;
+    height: 15px;
+    background: white;
+}
+
+.texto--fazer--login{
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.texto--fazer--login:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.bola{
+    margin: 10px ;
+    width: 40px;
+    height: 40px;
+    background: black;
+    float: right;
+    border-radius: 50%;
+}
+
+.pesquisa{
+    margin-top: -60px;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.campo--pesquisa{
+    padding: 15px 10px;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    outline: none !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.botao--pesquisa{
+    background: #F8F9FA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    border-radius: 4px; 
+    cursor: pointer;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.botao--pesquisa:hover{
+    border: 1px solid #eaeaee;
+}
+.txt{
+    margin: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.rodape1{
+    background: #f2f2f2;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.rodape2{
+    background: #f2f2f2;
+    border-top: 2px SOLID #eaeaee ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+.rodape--right{
+    float: right; 
+    text-decoration: none;
+}
+.rodape--left{
+    float: left;
+    text-decoration: none;
+}
+.link--rodape{
+    text-decoration: none;
+    color: grey;
+    margin-right: 15px;
+    font-size: 14px;
+}
+.link--rodape:hover{
+    text-decoration: underline;
+    color: grey;
+}
