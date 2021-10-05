@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\jonat\\OneDrive\\Área de Trabalho\\JONATAS\\HTML\\Curso Vitor\\Recriando o Airbnb",
+      "environment": [],
+      "program": "c:\\Users\\jonat\\OneDrive\\Área de Trabalho\\JONATAS\\HTML\\Curso Vitor\\Recriando o Airbnb\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
