@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://www.everestlondrina.com.br/wp-content/uploads/2017/02/background-rodape-everest-sp.jpg);
+}
+.logo{
+    height: 40px;;
+}
+.imgsobre{
+    width: 450px ;
+}
+.imgcard{
+    width: 360px;
+}
+.sobre {
+    padding: 3em;
+    background-color: cadetblue;
+}
+.img {
+    -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.zoom{
+    overflow: hidden;
+}
+.zoom img{
+    max-width: 100%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.zoom:hover img{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.jogar{
+    padding: 3em;
+}
+.card img{
+    height: 350px;
+}
+.personagens{
+    background-color: whitesmoke;
+    padding: 3em;
+}
+.rodape{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1, h2{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Newsreader', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+}
+.clipe{
+    padding: 3em;
+    background-color: whitesmoke;
+    align-items: center;
+}
