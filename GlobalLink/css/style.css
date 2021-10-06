@@ -1,0 +1,61 @@
+ p{
+     font-family: 'Rubik', sans-serif;
+      
+}
+h1, h2, h3{
+    font-family: 'Rubik', sans-serif;
+}
+.imgcabecalho{
+    width: 100%;
+}
+.card{
+    margin: auto;
+    background-color: #003650;
+    border: none;
+}
+.card-img-top{
+    width: 50%;
+}
+.navbar{
+    background-color: #003650;
+    color: white;
+}
+.apresentacao{
+    background-color: #ebebeb;
+    padding: 60px;
+}
+.servicos{
+    background-color: #003650;
+    color: white;
+    padding: 40px;
+}
+.manutencao, .Sistema, .Marketing, .Instalacao{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    margin: 5px;
+    padding: 15px;
+    width: 200px;
+    border-radius: 5px;
+}
+.clientes{
+    background-color: #ebebeb;
+    padding: 40px;
+}
+.visitar{
+    background-color: #003650;
+    color: white;
+    padding: 40px;
+}
+.rodape{
+    background-color: #ebebeb;
+    color: #003650;
+    text-align: center;
+    padding: 5px;
+}
+@media screen and  (max-width: 572px){
+.card{
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+}
